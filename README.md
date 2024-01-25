@@ -21,5 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh2425&show_icons=true&locale=en" alt="adarsh2425" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh2425&" alt="adarsh2425" /></p>
-
-![](https://komarev.com/ghpvc/?username=Adarsh2425)
